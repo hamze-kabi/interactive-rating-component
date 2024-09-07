@@ -63,6 +63,13 @@ main {
   border: 0rem;
   color: var(--light-grey);
   font-size: smaller;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.buttons button:hover {
+  cursor: pointer;
+  background-color: var(--orange);
+  color: var(--white);
 }
 
 #submit {
@@ -72,6 +79,10 @@ main {
   padding: 0.4rem;
   border: 0rem;
   border-radius: 2rem;
+}
+
+#submit:active {
+  translate: 0rem 0.1rem;
 }
 
 @media screen and (width > 376px) {
