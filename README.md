@@ -21,7 +21,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/hamze-kabi/interactive-rating-component](https://github.com/hamze-kabi/interactive-rating-component)
+- Solution URL: [https://github.com/hamze-kabi/interactive-rating-component](LINK https://github.com/hamze-kabi/interactive-rating-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
