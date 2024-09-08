@@ -14,10 +14,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Overview
 
 ### Screenshot
+![desktop screenshot](./screenshots/desktop-screenshot.png)
 
-![desktop screenshot](screenshots\desktop-screenshot.png)
+[mobile screenshot](screenshots/mobile-screenshot.png)
 
-[mobile screenshot](screenshots\mobile-screenshot.png)
 
 ### Links
 
