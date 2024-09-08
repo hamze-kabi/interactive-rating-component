@@ -36,6 +36,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Author
 
-- Email - [hamzekabinasab@gmail.com](hamzekabinasab@gmail.com)
+- Email - [hamzekabinasab@gmail.com](mailto:hamzekabinasab@gmail.com)
 - Github - [https://github.com/hamze-kabi/](https://github.com/hamze-kabi/)
 
