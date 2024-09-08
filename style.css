@@ -19,14 +19,16 @@ body {
   background-color: var(--very-dark-blue);
   font-family: "overpass";
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 main {
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
-  margin: 20vh 7vw;
+  margin: 20vh 7vw 1vh 7vw;
   background-color: var(--dark-blue);
   padding: 1.5rem;
   border-radius: 1rem;
@@ -100,6 +102,10 @@ main {
 
 #submit:focus {
   background-color: rgba(150, 184, 200, 0.379);
+}
+
+footer {
+  color: aliceblue;
 }
 
 /* related to thankyou.html */
