@@ -18,6 +18,8 @@
 body {
   background-color: var(--very-dark-blue);
   font-family: "overpass";
+  display: flex;
+  justify-content: center;
 }
 
 main {
@@ -28,6 +30,8 @@ main {
   background-color: var(--dark-blue);
   padding: 1.5rem;
   border-radius: 1rem;
+  width: 100%;
+  max-width: 30rem;
 }
 
 /* used in icon-star and buttons*/
@@ -86,6 +90,10 @@ main {
   margin: 0.7rem auto 0 auto;
 }
 
+#submit:hover {
+  cursor: pointer;
+}
+
 #submit:active {
   translate: 0rem 0.1rem;
 }
@@ -105,10 +113,4 @@ main {
   padding: 0 0.5rem;
   color: var(--orange);
   font-size: 0.95rem;
-}
-
-@media screen and (width > 1023px) {
-  body {
-    background-color: white;
-  }
 }
