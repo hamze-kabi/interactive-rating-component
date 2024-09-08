@@ -16,13 +16,13 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Screenshot
 ![desktop screenshot](./screenshots/desktop-screenshot.png)
 
-[mobile screenshot](screenshots/mobile-screenshot.png)
+[mobile screenshot](./screenshots/mobile-screenshot.png)
 
 
 ### Links
 
 - Solution URL: [https://github.com/hamze-kabi/interactive-rating-component](https://github.com/hamze-kabi/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://hamze-kabi.github.io/interactive-rating-component/](https://hamze-kabi.github.io/interactive-rating-component/)
 
 ## My process
 
